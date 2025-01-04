@@ -24,7 +24,4 @@ Je suis un développeur passionné par la technologie et l'innovation. J'aime cr
 !C++
 !PHP
 
-
-## 🌐 Suivez-mo
-
 Merci de vsiter mon profil ! N'hésitez pas à me contacter pour toute collaboration ou juste pour dire bonjour. 😄
